@@ -1,0 +1,59 @@
+{
+  "word": "aws",
+  "bbox": [
+    [
+      256,
+      265
+    ],
+    [
+      388,
+      267
+    ],
+    [
+      387,
+      306
+    ],
+    [
+      255,
+      304
+    ]
+  ],
+  "fingertip": [
+    330,
+    322
+  ],
+  "distance_px": 16.861701017745617,
+  "confidence": 0.9847187399864197,
+  "index": 0,
+  "paragraph_id": 0,
+  "context": {
+    "words_per_side": 3,
+    "before": [],
+    "after": [],
+    "window_text": "aws",
+    "target_pos": 0,
+    "window_words": [
+      {
+        "text": "aws",
+        "bbox": [
+          [
+            256,
+            265
+          ],
+          [
+            388,
+            267
+          ],
+          [
+            387,
+            306
+          ],
+          [
+            255,
+            304
+          ]
+        ]
+      }
+    ]
+  }
+}
